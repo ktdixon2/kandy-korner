@@ -1,0 +1,68 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Bob Smith"   
+        },
+        {
+            "id": 2,
+            "name": "Tammy Roberts"
+        },
+        {
+            "id": 3, 
+            "name": "Ted Sanborn"
+        },
+        {
+            "id": 4,
+            "name": "Heather Sanborn"
+        }
+    ],
+    "locations": [
+        {
+            "id": 1, 
+            "name": "Nashville North",
+            "address": "3737 Some Fake Road"
+        },
+        {
+            "id": 2,
+            "name": "Nashville South",
+            "address": "48923 Another Fake Road"
+        }
+    ],
+    "candy_types": [
+        {
+            "id": 1,
+            "name": "Candy Bar"
+        },
+        {
+            "id": 2,
+            "name": "Gummy"
+        },
+        {
+            "id": 3, 
+            "name": "Hard Candy"
+        },
+        {
+            "id": 4,
+            "name": "Bubble Gum"
+        }
+    ],
+    "candy_names": [
+        {
+            "id": 1,
+            "name": "Snickers"
+        },
+        {
+            "id": 2, 
+            "name": "Tootsie Pop"
+        },
+        {
+            "id": 3,
+            "name": "Rock Candy"
+        },
+        {
+            "id": 4, 
+            "name": "Big League Chew"
+        }
+    ]
+}
